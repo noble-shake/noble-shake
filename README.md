@@ -1,16 +1,18 @@
-### Hi there 👋
+### Noble-shake
 
-<!--
-**noble-shake/noble-shake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in developing games now.
 
-Here are some ideas to get you started:
+## Contact 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<noble_shake@naver.com>
+
+<coppgabliw@gmail.com>
+
+
+## Resume
+
+Current Resume will be Update Soon.
+
+[Legacy Korean CV](https://docs.google.com/document/d/1dH8tbvfDp6UUk_qtbqNew4UpVuEvBzT5imXvd3bcAtE/edit?usp=sharing)
+
+[Legacy CV](https://docs.google.com/document/d/1ZocydmRNVA2l6dSVJHKKaaWxM1mWd3z89tDhLVNfMdw/edit?usp=sharing)
