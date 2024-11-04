@@ -1,6 +1,8 @@
 ### Noble-shake
 
-I'm interested in developing games now.
+Currently, 
+(1) making Platformmer Game with Team Dong-Me.
+(2) making Touhou FanGame with Unity DOTS.
 
 
 
