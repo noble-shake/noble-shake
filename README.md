@@ -23,5 +23,3 @@ Developing,
 
 
 ## Resume (TBD)
-
-[Legacy Korean CV](https://docs.google.com/document/d/1dH8tbvfDp6UUk_qtbqNew4UpVuEvBzT5imXvd3bcAtE/edit?usp=sharing)
