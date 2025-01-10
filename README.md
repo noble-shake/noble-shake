@@ -1,5 +1,7 @@
 ### Noble-shake
 
+Deep Learning Engineer & Game Developer
+
 Currently, 
 
 I'm interest in Unity DOTS and GPU Instancing.
