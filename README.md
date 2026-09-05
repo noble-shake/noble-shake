@@ -1,6 +1,6 @@
 ### Noble-shake
 
-The World is just a System. We are all Entities — biological components carrying Desires within it. I believe all Life is no coincidence.
+World is just System. We are all Entities with biological Components and Desires in World. I believe, all Life is not just coincidence.
 
 
 ## Contact 
